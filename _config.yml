@@ -22,7 +22,7 @@ title: Amit Upadhyay
 email: amitthecode@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   My resume.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/resume" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 username: Amit Upadhyay
 user_description: I'm Amit Upadhyay. I live in New Delhi, India, I conside my self a reasonably experienced software engineer with a particular interest in software development. I research things I find interesting, then document my research with a public blog post, which I can easily find and refer to later. I firmly believe that blogs are a two way conversation, so I welcome email and comments, Visit my blog here <a href="https://amitthecoder.github.io"><span><i class="icon fa fa-link" aria-hidden="true"></i></span></a>
